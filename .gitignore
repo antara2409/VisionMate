@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Database files
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model training artifacts (optional logs)
+runs/
+
+*.zip
+
+fine_tuned_weights/yolov8s.pt
