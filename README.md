@@ -91,6 +91,7 @@ streamlit run app.py
 ```
 
 Upload a video file through the interface and control analysis using voice or UI commands.
+
 ---
 ## Known Limitations
 
