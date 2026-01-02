@@ -110,4 +110,4 @@ Upload a video file through the interface and control analysis using voice or UI
 ## Ethical Considerations
 
 VisionMate is intended as an assistive support system and not a replacement for human judgment. The system prioritizes safety, transparency, and accessibility in its design.
----
+
